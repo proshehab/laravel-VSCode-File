@@ -29,3 +29,4 @@ php Intelephense
 Prettier Formatter
 Vue 3 Snippets
 Vue VSCode Snippets
+
