@@ -1,0 +1,31 @@
+laravel vs code extensions
+============================
+Atom Material Icons
+Auto Close Tag
+Auto Import
+Auto Rename Tag
+CodeSnap
+Composer
+DevDb
+Github Copilot
+github pull
+Highlights matching Tag
+IntelliPHP
+Laravel Artisan
+Laravel blade-formatter
+Laravel Blade Snippets
+Laravel Blade Wrapper
+Laravel Create View
+Laravel Extra Intellisense
+Laravel goto view
+Laravel Snippets
+Laravel-goto-components
+Laravel-jump-controller
+Material Icon Theme
+Material Theme
+Material Theme Icons — Free
+Mysql
+php Intelephense
+Prettier Formatter
+Vue 3 Snippets
+Vue VSCode Snippets
